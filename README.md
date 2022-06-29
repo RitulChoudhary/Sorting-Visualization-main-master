@@ -8,7 +8,7 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
-[Check out the website here]
+[Check out the website here](https://sorting-visualizer-2212.netlify.app/)
 
 <img src="img/img1.png"> <br/>
 <img src="img/img2.png"> <br/>
